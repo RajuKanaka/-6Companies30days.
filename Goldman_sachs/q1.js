@@ -1,5 +1,5 @@
 //Given an array of strings, return all groups of strings that are anagrams.
-//cd Goldman_sacs    node q1.js
+//cd Goldman_sachs    node q1.js
 
 function Anagrams(n, string_list) {
   const out = [];
