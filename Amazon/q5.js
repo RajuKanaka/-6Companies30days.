@@ -14,4 +14,4 @@ function displayContacts(n, contact, s) {
   }
 }
 
-displayContacts(3, ["geeikistest", "geeksforgeeks", "geeksfortest"], "geee");
+displayContacts(3, ["geeikistest", "geekusforgeeks", "geeksfortest"], "geee");
