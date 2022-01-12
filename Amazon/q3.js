@@ -13,7 +13,7 @@ function max_of_subarrays(arr, n, k) {
   return output;
 }
 
-const arr = [1, 2, 3, 1, 4, 5, 2, 3, 6];
+const arr = [1, 2, 3, 1, 5, 5, 2, 3, 6];
 const n = arr.length;
 const k = 3;
 
